@@ -7,3 +7,4 @@ Notes and usage details for cli.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
